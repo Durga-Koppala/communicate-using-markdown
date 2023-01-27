@@ -1,0 +1,16 @@
+# This is H1 heading, which is the largest.
+## This is H2 heading, which is the second largest.
+###### This is H6 heading, which is the smallest of all headings.
+
+
+My Favorite superhero character is Superman
+![Image of Superman](https://images.hdqwalls.com/wallpapers/superman-4k-up-0h.jpg)
+
+```
+$ git init
+Initialized empty Git repository in /Users/skills/Projects/recipe-repository/.git/
+```
+
+- [ ] Turn on GitHub Pages
+- [ ] Outline my portfolio
+- [ ] Introduce myself to the world
